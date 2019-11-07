@@ -1,0 +1,18 @@
+  
+# firstweb
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: black}
+h1   {color: white;}
+p    {color: pink;}
+</style>
+</head>
+<body>
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
